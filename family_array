@@ -1,0 +1,49 @@
+[
+    {
+        "Brother1": {
+            "name": "David",
+            "age": "32",
+            "quality": "chill"
+        },
+        "appearance": {
+            "eye_color": "brown",
+            "hair_length": "short"
+        },
+        "Brother2": {
+            "name": "Paul",
+            "age": "31",
+            "quality": "Active"
+        },
+        "appearance": {
+            "eye_color": "brown",
+            "hair_length": "short"
+        },
+        "Dad": {
+            "name": "Nemuel",
+            "age": "61",
+            "quality": "Non-Stop"
+        },
+        "appearance": {
+            "eye_color": "black",
+            "hair_length": "short"
+        },
+        "Mom": {
+            "name": "Nemuel",
+            "age": "61",
+            "quality": "Non-Stop"
+        },
+        "appearance": {
+            "eye_color": "blue",
+            "hair_length": "long"
+        },
+        "Wife": {
+            "name": "Claire",
+            "age": "24",
+            "quality": "Beautiful"
+        }
+        "appearance":{
+          "eye_color": "hazel brown",
+          "hair_length": "long"
+        }
+    }
+]
