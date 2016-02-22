@@ -1,0 +1,38 @@
+[
+        {
+            "name": "Faraz Fazli",
+            "age": 18,
+            "quality": "Dedicated",
+            "appearance": {
+                "eyecolor": "Brown",
+                "hairlength": "Short"
+            }
+        },
+        {
+            "name": "Farjad Fazli",
+            "age": 22,
+            "quality": "Punctual",
+            "appearance": {
+                "eyecolor": "Brown",
+                "hairlength": "Short"
+            }
+        },
+        {
+            "name": "Hajra Fazli",
+            "age": null,
+            "quality": "Sweet",
+            "appearance": {
+                "eyecolor": "Black",
+                "hairlength": "Long"
+            }
+        },
+        {
+            "name": "Adil Fazli",
+            "age": null,
+            "quality": "Awesome",
+            "appearance": {
+                "eyecolor": "Gray",
+                "hairlength": "Short"
+            }
+        }
+]
