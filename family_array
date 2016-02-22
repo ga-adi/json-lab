@@ -1,0 +1,9 @@
+[{
+	"dad":{
+	"name":"Rustam",
+	"age":42
+	}
+	"mom":{
+	"name":"Tanya"
+	}
+}]
