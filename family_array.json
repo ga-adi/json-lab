@@ -1,0 +1,38 @@
+[ 
+	{
+	    "name" : "Christine",
+	    "age" : "64",
+	    "best_quality" : "Generally kind to everyone",
+	    "appearance" : { 
+	    	"eyes" : "blue",
+	    	"hair" : "short"
+	    }
+	},
+	{
+	    "name" : "David",
+	    "age" : "61",
+	    "best_quality" : "Ability to focus",
+	     "appearance" : { 
+	    	"eyes" : "hazel",
+	    	"hair" : "bald"
+	    }
+	},
+	{
+	    "name" : "Tatyana",
+	    "age" : "18",
+	    "best_quality" : "Great student",
+	    "appearance" : { 
+	    	"eyes" : "borwn",
+	    	"hair" : "long"
+	    }
+	},	
+	{
+	    "name" : "Ben",
+	    "age" : "23",
+	    "best_quality" : "Be doing that programming errday",
+	    "appearance" : { 
+	    	"eyes" : "blue",
+	    	"hair" : "buzzed"
+	    }
+	}
+]
