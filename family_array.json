@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Dad",
+        "age": 50,
+        "quality": "adamant",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "short"
+        }
+    }, 
+    {
+        "name": "Mom",
+        "age": 45,
+        "quality": "nuturing",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "long"
+        }
+    }, 
+    {
+        "name": "Sister1",
+        "age": 20,
+        "quality": "confident",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "long"
+        }
+    }, 
+    {
+        "name": "Sister2",
+        "age": 11,
+        "quality": "brat",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "long"
+        }
+    }, 
+    {
+        "name": "Me",
+        "age": 24,
+        "quality": "humble",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "short"
+        }
+    }, 
+    {
+        "name": "Dog",
+        "age": 2,
+        "quality": "adorable",
+        "appearance": {
+            "eyes": "cute",
+            "hair": "long"
+        }
+    }
+]
