@@ -1,0 +1,34 @@
+{
+	"Christine" : {
+		"age" : "64",
+		"descriptive_quality" : "Wonderful cook",
+		"Appearance" : {
+			"eyes" : "green",
+			"hair" : "short"
+		}
+	},
+	"David" : {
+		"age" : "61",
+		"descriptive_quality" : "Loves to Read",
+		"Appearance" : {
+			"eyes" : "hazel",
+			"hair" : "bald"
+		}
+	},
+	"Tatyana" : {
+		"age" : "18",
+		"descriptive_quality" : "Loves to play volleyball",
+		"Appearance" : {
+			"eyes" : "brown",
+			"hair" : "long"
+		}
+	},
+	"Ben" : {
+		"age" : "23",
+		"descriptive_quality" : "Love to play basketball",
+		"Appearance" : {
+			"eyes" : "blue",
+			"hair" : "buzzed"
+		}
+	}   
+}
