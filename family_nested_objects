@@ -1,0 +1,42 @@
+{
+    "Paul": {
+        "dad": {
+            "age": 59,
+            "quality": "Tall",
+            "appearance": {
+                "eyes": "brown",
+                "hair": "short"
+            }
+        }
+    },
+    "Fanny": {
+        "mom": {
+            "age": 57,
+            "quality": "Short",
+            "appearance": {
+                "eyes": "brown",
+                "hair": "short"
+            }
+        }
+    },
+    "Chris": {
+        "son": {
+            "age": 32,
+            "quality": "Average",
+            "appearance": {
+                "eyes": "brown",
+                "hair": "short"
+            }
+        }
+    },
+    "Cindy": {
+        "daughter": {
+            "age": 29,
+            "quality": "Short",
+            "appearance": {
+                "eyes": "brown",
+                "hair": "long"
+            }
+        }
+    }
+}
