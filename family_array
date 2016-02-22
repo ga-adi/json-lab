@@ -1,0 +1,31 @@
+{
+    "family_array": [
+        {
+            "name": "Marsha",
+            "age": "52",
+            "quality": "Pretty",
+            "appearance": [
+                "blue",
+                "long"
+            ]
+        },
+        {
+            "name": "Mark",
+            "age": "58",
+            "quality": "Smart",
+            "appearance": [
+                "blue",
+                "short"
+            ]
+        },
+        {
+            "name": "John",
+            "age": "21",
+            "quality": "Very Cool",
+            "appearance": [
+                "blue",
+                "short"
+            ]
+        }
+    ]
+}

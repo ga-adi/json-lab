@@ -1,0 +1,28 @@
+{
+    "family_nested_objects": {
+        "Marsha": {
+            "age": "52",
+            "quality": "Pretty",
+            "appearance": {
+                "eyes": "blue",
+                "hair": "long"
+            }
+        },
+        "Mark": {
+            "age": "58",
+            "quality": "Smart",
+            "appearance": {
+                "eyes": "blue",
+                "hair": "short"
+            }
+        },
+        "John": {
+            "age": "21",
+            "quality": "Very Cool",
+            "appearance": {
+                "eyes": "blue",
+                "hair": "short"
+            }
+        }
+    }
+}
