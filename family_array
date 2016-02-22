@@ -1,0 +1,25 @@
+["mother":{"name":"Athena",
+"age":"36",
+"quality":"Thoughtful",
+"appearance":{
+	"eyes":"Hazel",
+	"hair":"Dark Brown"
+}
+},
+"father":{"name":"Constantine"
+"age":"41",
+"quality":"Creative",
+"appearance":{
+	"eye":"Dark Brown",
+	"hair":"Dark Brown"
+}
+},
+"brother":{"name":"Niko",
+"age":"22",
+"quality":"Intelligent",
+"appearance":{
+	"eyes":"Hazel"
+	"hair":"Dark Brown"
+}
+}
+]

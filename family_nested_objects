@@ -1,0 +1,26 @@
+{
+	"Athena":{
+	"age":"36",
+	"quality":"Thoughtful",
+	"appearance":{
+	"eyes":"Hazel",
+	"hair":"Long"
+	}
+	}
+	"Constantine":{
+	"age":"41",
+	"quality":"Creative",
+	"appearance":{
+	"eyes":"Dark Brown",
+	"hair":"Short"
+	}
+	}
+	"Niko":{
+	"age":"22",
+	"quality":"Intelligent",
+	"appearance":{
+	"eyes":"Hazel",
+	"hair":"Long"
+	}
+	}
+}
