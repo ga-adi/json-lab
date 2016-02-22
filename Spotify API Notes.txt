@@ -1,0 +1,9 @@
+Overview: https://developer.spotify.com/technologies/spotify-android-sdk/
+
+Spofify's API is broken down into 2 categories dedicated towards User Authentication and Audio streaming/playback (which seems to also cover digital rights management and decoding).
+
+The mobile API's (iOS and Android) are both in beta stages, so it seems Spotify is still a little behind in their mobile platforms (Job Opp??).  To manage metadata lookup and playlist management, one would have to leverage their Web API's after receiving an OAuth token from the SDK (and leverage an Android web API wrapper class).
+
+To do anything with Spotify (authenticate user, access private data, stream music), my application will first need to connect to the Spotify Android client or Spotify Accounts Service and retrieve a valid OAuth access token (Spotify Authentication guide: https://developer.spotify.com/technologies/spotify-android-sdk/android-sdk-authentication-guide/).
+
+Terms & Conditions:  I'll need to learn how to read these in general to find the pertinent rights usage information for using 3rd party API's (https://developer.spotify.com/developer-terms-of-use/).
