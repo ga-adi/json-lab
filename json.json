@@ -1,43 +1,4 @@
-{
-    "family_array": [
-        {
-            "name": "Faraz Fazli",
-            "age": 18,
-            "quality": "Dedicated",
-            "appearance": [
-                "Black",
-                "Short"
-            ]
-        },
-        {
-            "name": "Farjad Fazli",
-            "age": 22,
-            "quality": "Punctual",
-            "appearance": [
-                "Brown",
-                "Short"
-            ]
-        },
-        {
-            "name": "Hajra Fazli",
-            "age": null,
-            "quality": "Sweet",
-            "appearance": [
-                "Black",
-                "Long"
-            ]
-        },
-        {
-            "name": "Adil Fazli",
-            "age": null,
-            "quality": "Awesome",
-            "appearance": [
-                "Gray",
-                "Short"
-            ]
-        }
-    ],
-    "family_nested_objects": [
+[
         {
             "name": "Faraz Fazli",
             "age": 18,
@@ -74,5 +35,50 @@
                 "hairlength": "Short"
             }
         }
-    ]
-}
+]
+
+
+
+
+
+
+
+
+
+
+        "Me":{
+            "name": "Faraz Fazli",
+            "age": 18,
+            "quality": "Dedicated",
+            "appearance": {
+                "eyecolor": "Brown",
+                "hairlength": "Short"
+            }
+        }
+        "Brother":{
+            "name": "Farjad Fazli",
+            "age": 22,
+            "quality": "Punctual",
+            "appearance": {
+                "eyecolor": "Brown",
+                "hairlength": "Short"
+            }
+        }
+        "Mom":{
+            "name": "Hajra Fazli",
+            "age": null,
+            "quality": "Sweet",
+            "appearance": {
+                "eyecolor": "Black",
+                "hairlength": "Long"
+            }
+        }
+        "Dad":{
+            "name": "Adil Fazli",
+            "age": null,
+            "quality": "Awesome",
+            "appearance": {
+                "eyecolor": "Gray",
+                "hairlength": "Short"
+            }
+        }
