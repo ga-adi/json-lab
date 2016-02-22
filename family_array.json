@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Cathy",
+        "age": 66,
+        "quality": "patient",
+        "appearance": {
+            "eyes": "blue",
+            "hair": "long"
+        }
+    },
+    {
+        "name": "Jeff",
+        "age": 66,
+        "quality": "helpful",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "short"
+        }
+    },
+    {
+        "name": "Nora",
+        "age": 40,
+        "quality": "tough",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "long"
+        }
+    },
+    {
+        "name": "Ellen",
+        "age": 38,
+        "quality": "funny",
+        "appearance": {
+            "eyes": "blue",
+            "hair": "long"
+        }
+    },
+    {
+        "name": "Charlie",
+        "age": 33,
+        "quality": "curious",
+        "appearance": {
+            "eyes": "blue",
+            "hair": "long"
+        }
+    }
+]
