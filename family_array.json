@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Ann",
+        "age": 66,
+        "Striking Quality": "Artistic",
+        "Appearance": {
+            "eyes": "brown",
+            "hair": "dark",
+            "height": "short"
+        }
+    },
+    {
+        "name": "Elliott",
+        "age": 67,
+        "Striking Quality": "Cautious",
+        "Appearance": {
+            "eyes": "brown",
+            "hair": "peppery",
+            "height": "average"
+        }
+    },
+    {
+        "name": "Eric",
+        "age": 33,
+        "Striking Quality": "Musician",
+        "Appearance": {
+            "eyes": "brown",
+            "hair": "dark",
+            "height": "a little tall"
+        }
+    },
+    {
+        "name": "Lisa",
+        "age": 27,
+        "Striking Quality": "Cheery",
+        "Appearance": {
+            "eyes": "brown",
+            "hair": "dark",
+            "height": "pretty short"
+        }
+    }
+]
