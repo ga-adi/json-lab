@@ -1,0 +1,43 @@
+{
+  "simon":{
+    "age":"29",
+    "quality":"high_quality",
+  "appearance":{
+      "eye_color": "brown",
+      "hair_length": "long"
+  }
+},
+"Claire":{
+  "age":"24",
+  "quality":"high_quality",
+"appearance":{
+    "eye_color": "hazel brown",
+    "hair_length": "long"
+}
+},
+
+"Paul":{
+  "age":"31",
+  "quality":"high_quality",
+"appearance":{
+    "eye_color": "brown",
+    "hair_length": "short"
+}
+},
+"David":{
+  "age":"32",
+  "quality":"high_quality",
+"appearance":{
+    "eye_color": "brown",
+    "hair_length": "short"
+  }
+},
+  "Nemuel":{
+    "age":"59",
+    "quality":"high_quality",
+  "appearance":{
+      "eye_color": "brown",
+      "hair_length": "short"
+  }
+}
+}
