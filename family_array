@@ -1,25 +1,28 @@
-["mother":{"name":"Athena",
+[{"mother":{"name":"Athena",
 "age":"36",
 "quality":"Thoughtful",
 "appearance":{
 	"eyes":"Hazel",
-	"hair":"Dark Brown"
+	"hair":"Long"
+}
 }
 },
-"father":{"name":"Constantine"
+{"father":{"name":"Constantine",
 "age":"41",
 "quality":"Creative",
 "appearance":{
-	"eye":"Dark Brown",
-	"hair":"Dark Brown"
+	"eyes":"Dark Brown",
+	"hair":"Short"
+}
 }
 },
-"brother":{"name":"Niko",
+{"brother":{"name":"Niko",
 "age":"22",
 "quality":"Intelligent",
 "appearance":{
-	"eyes":"Hazel"
-	"hair":"Dark Brown"
+	"eyes":"Hazel",
+	"hair":"Long"
+}
 }
 }
 ]

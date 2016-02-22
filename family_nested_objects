@@ -6,7 +6,7 @@
 	"eyes":"Hazel",
 	"hair":"Long"
 	}
-	}
+	},
 	"Constantine":{
 	"age":"41",
 	"quality":"Creative",
@@ -14,7 +14,7 @@
 	"eyes":"Dark Brown",
 	"hair":"Short"
 	}
-	}
+	},
 	"Niko":{
 	"age":"22",
 	"quality":"Intelligent",
