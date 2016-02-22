@@ -1,0 +1,34 @@
+[{
+	"Chris" : {
+		"age" : 52,
+		"job" : "developer",
+		"appearance" : [
+			"blue",
+			"short"
+		]
+	},
+	"Donna" : {
+		"age" : 51,
+		"job" : "sales",
+		"appearance" : [
+			"green",
+			"long"
+		]
+	},
+	"Chelsea" : {
+		"age" : 23,
+		"job" : "geological engineer",
+		"appearance" : [
+			"blue",
+			"long"
+		]
+	},
+	"Victoria" : {
+		"age" : 20,
+		"job" : "student",
+		"appearance" : [
+			"brown",
+			"long"
+		]
+	}
+}]
