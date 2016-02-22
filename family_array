@@ -1,0 +1,39 @@
+[
+
+  {
+    "name":"Rose",
+    "age":60,
+    "role":"mom",
+    "appearance":[
+      {"eyes":"brown"},
+      {"hair":"short"}
+    ]
+  },
+    {
+    "name":"Tom",
+    "age":60,
+    "role":"dad",
+    "appearance":[
+      {"eyes":"brown"},
+      {"hair":"short"}
+    ]
+  },
+  {
+    "name":"Nida",
+    "age":40,
+    "role":"sis",
+    "appearance":[
+      {"eyes":"brown"},
+      {"hair":"long"}
+    ]
+  },
+    {
+    "name":"Nat",
+    "age":38,
+    "role":"me",
+    "appearance":[
+      {"eyes":"brown"},
+      {"hair":"short"}
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "mom":{
+    "name":"Rose",
+    "age":60,
+    "role":"president",
+    "appearance":{
+      "eyes":"brown",
+      "hair":"short"
+    }
+  },
+  "dad":{
+    "name":"Tom",
+    "age":60,
+    "role":"vice-president",
+    "appearance":{
+      "eyes":"brown",
+      "hair":"short"
+    }
+  },
+  "sister":{
+    "name":"Nida",
+    "age":40,
+    "role":"boss",
+    "appearance":{
+      "eyes":"brown",
+      "hair":"long"
+    }
+  },
+  "me":{
+    "name":"Nat",
+    "age":38,
+    "role":"programmer",
+    "appearance":{
+      "eyes":"brown",
+      "hair":"short"
+    }
+  }
+
+
+}
