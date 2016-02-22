@@ -1,0 +1,42 @@
+{
+	"KS":{
+		"age":54,
+		"quality":"Friendly and warm!",
+		"appearance":{
+			"eyes":"Black",
+			"hair":"Short, Curly"
+		}
+	},
+	"JH":{
+		"age":88,
+		"quality":"Energetic",
+		"appearance":{
+			"eyes":"Black",
+			"hair":"Short"
+		}
+	},
+	"BR":{
+		"age":84,
+		"quality":"warm",
+		"appearance":{
+			"eyes":"Black",
+			"hair":"Short, Curly"
+		}
+	},
+	"HW":{
+		"age":25,
+		"quality":"Smart and bright",
+		"appearance":{
+			"eyes":"Brown",
+			"hair":"Light brown, long"
+		}
+	},
+	"HM":{
+		"age":31,
+		"quality":"Relaxed",
+		"appearance":{
+			"eyes":"Brown",
+			"hair":"Short"
+		}
+	}
+}
