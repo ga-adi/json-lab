@@ -1,0 +1,35 @@
+[
+{ "name":"Lisa",
+	"age":24,
+	"quality":"energetic",
+	"appearance":{
+		"eyecolor":"brown",
+		"hair":"long"
+	}
+},
+{ "name":"Jessica",
+	"age":28,
+	"quality":"scholarly",
+	"appearance":{
+		"eyecolor":"brown",
+		"hair":"long"
+	}
+},
+{ "name":"Sherry",
+	"age":55,
+	"quality":"dedicated",
+	"appearance":{
+		"eyecolor":"brown",
+		"hair":"long"
+	}
+},
+{ "name":"Ping",
+	"age":58,
+	"quality":"gruff",
+	"appearance":{
+		"eyecolor":"brown",
+		"hair":"short"
+	}
+}
+
+]

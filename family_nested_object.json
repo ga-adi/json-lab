@@ -1,0 +1,44 @@
+{
+"Lisa":{
+"age":24,
+"quality":"energetic",
+"appearance":{
+	"eyecolor":"brown",
+	"hair":"long"
+}
+}
+
+}
+{
+"Jessica":{
+"age":28,
+"quality":"scholarly",
+"appearance":{
+	"eyecolor":"brown",
+	"hair":"long"
+}
+}
+
+}
+{
+"Sherry":{
+"age":55,
+"quality":"dedicated",
+"appearance":{
+	"eyecolor":"brown",
+	"hair":"long"
+}
+}
+
+}
+{
+"Ping":{
+"age":58,
+"quality":"gruff",
+"appearance":{
+	"eyecolor":"brown",
+	"hair":"short"
+}
+}
+
+}
